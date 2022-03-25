@@ -81,7 +81,12 @@ Token address  0x9518D0C28ed8DEf115C4767D4dFC9bA35E263824
 
 # Links
 
-opensea https://testnets.opensea.io/account
+opensea 
+- original minter: https://testnets.opensea.io/account
+
+- buyer: https://testnets.opensea.io/account
+    
+    
 
 etherscan https://rinkeby.etherscan.io/token/0xf35345e9f6670d74349281cd503fac28915917ad?a=0x81bb53922ea310378229180a962aa798e66dac57
 
