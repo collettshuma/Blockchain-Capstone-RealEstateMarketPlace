@@ -82,9 +82,9 @@ Token address  0x9518D0C28ed8DEf115C4767D4dFC9bA35E263824
 # Links
 
 opensea 
-- original minter: https://testnets.opensea.io/account
+- original minter: https://testnets.opensea.io/collet
 
-- buyer: https://testnets.opensea.io/account
+- buyer: https://testnets.opensea.io/0x5c6c53f45fabd71e295e1619a3af70dc4f890461
     
     
 
